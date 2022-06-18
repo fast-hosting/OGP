@@ -1,7 +1,7 @@
 # OGP-Installer
 
 Script supports auto install agent or panel for any os supported
-
+script by : fast hosting⚡
 
 1-Click Agent & Panel Installation
 
@@ -20,11 +20,11 @@ Script supports auto install agent or panel for any os supported
 
 ### Panel Installation
 
-    sudo apt update && apt -y upgrade && apt -y install curl && curl -O https://raw.githubusercontent.com/fregzy/OGP/master/panel.sh && chmod 777 panel.sh && ./panel.sh
+    sudo apt update && apt -y upgrade && apt -y install curl && curl -O https://raw.githubusercontent.com/fast-hosting/OGP/master/panel.sh && chmod 777 panel.sh && ./panel.sh
 
 ### Agent Installation 
 	
-    sudo apt update && apt -y upgrade && apt -y install curl && curl -O https://raw.githubusercontent.com/fregzy/OGP/master/agent.sh && chmod 777 agent.sh && ./agent.sh
+    sudo apt update && apt -y upgrade && apt -y install curl && curl -O https://raw.githubusercontent.com/fast-hosting/OGP/master/agent.sh && chmod 777 agent.sh && ./agent.sh
 
 ### mysqli_real_connect(): (HY000/1698): Access denied for user 'root'@'localhost'
 
@@ -36,4 +36,4 @@ Script supports auto install agent or panel for any os supported
     exit
     
 ### VPS Hosting
-https://www.host1fire.com/
+https://fast-hosting.xyz/
